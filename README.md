@@ -1,4 +1,4 @@
-# Regression-analysis-and-twitter-data
+# Regression analysis and twitter data
 
 Regression analysis is a statistical method for determining the relationship between a target variable and a group of parameters that together provide information about the target. In this research, we investigate regression-specific feature engineering methods and model selection to improve regression performance. We'll perform many experiments to determine the relative importance of various alternatives.
 
